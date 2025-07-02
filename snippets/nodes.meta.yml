@@ -1658,12 +1658,20 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: '9|Channel id: @ShadowProxy66рҹҮӯ...'
+- name: '9|Channel id: @ShadowProxy66🇭🇰'
   password: nfsn666
   port: 8888
   server: hk.nfsn666.gq
   skip-cert-verify: true
   sni: hk.nfsn666.gq
+  tls: false
+  type: hysteria2
+- name: 10|https://t.me/V2ry_Proxy
+  password: 37d19f09-5fa4-4ad0-8484-55050b582a29
+  port: 2056
+  server: fr3.eyucdn.xyz
+  skip-cert-verify: true
+  sni: fr3.eyucdn.xyz
   tls: false
   type: hysteria2
 - name: 10|ff_kikor
@@ -1684,7 +1692,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|All рҹҮ @Cook_Vpn
+- name: 10|All  @Cook_Vpn
   obfs: salamander
   obfs-password: nZ1fJMEpOR41WvXM4p98ryGE
   password: 5f81e5a7-8362-4af4-b688-81241c3a4c51
@@ -1694,7 +1702,7 @@ proxies:
   sni: speedtest.net
   tls: false
   type: hysteria2
-- name: 10|рҹрҹ@v2ray_configs_poolрҹрҹҮрҹ...
+- name: 10|@v2ray_configs_pool🇨🇦Canada️Va...
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
   server: 40.233.73.221
