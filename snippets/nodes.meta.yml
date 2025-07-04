@@ -1699,7 +1699,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|رن راانvpnowl@
+- name: 10| @TheRainIsHere
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1709,7 +1709,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|فیلترشکن رایگان👈vpnowl@
+- name: 10|🔒🏴‍☠️ @TheRainIsHere
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1719,7 +1719,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|فیلترشکن رایگان👈vpnowl@ #1'
+- name: '10|🔒🏴‍☠️ @TheRainIsHere #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1729,28 +1729,28 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|@Filter_breaker |  NA
+- name: 10|@Filter_breaker | 🏴‍☠️ NA
   password: abc123-4567-7890-1234-5678abcdef12
   port: 443
   server: surfboardv2ray.ir
   sni: www.speedtest.net
   tls: false
   type: hysteria2
-- name: 10|@Filter_breaker | 🏴‍☠️ NA
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #1'
   password: bcd234-5678-8901-2345-6789abcdef23
   port: 9443
   server: surfboardv2ray.ir
   sni: www.speedtest.net
   tls: false
   type: hysteria2
-- name: '10|@Filter_breaker | 🏴‍☠️ NA #1'
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #2'
   password: c0d1e2f3-a4b5-6789-f012-6789012345op
   port: 9445
   server: 4n0nymou3.ir
   sni: www.speedtest.net
   tls: false
   type: hysteria2
-- name: '10|@Filter_breaker | 🏴‍☠️ NA #2'
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #3'
   password: cde345-6789-9012-3456-7890abcdef34
   port: 443
   server: javidnamaniran.ir
@@ -1765,7 +1765,7 @@ proxies:
   sni: fr4.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '10|@Filter_breaker | 🏴‍☠️ NA #3'
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #4'
   password: def789-0123-4567-8901-2345abcdef67
   port: 443
   server: azadnet.t.me
@@ -1780,21 +1780,21 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '10|@Filter_breaker | 🏴‍☠️ NA #4'
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #5'
   password: e8f9a0b1-c2d3-4567-f012-6789012345wx
   port: 9446
   server: 4n0nymou3.ir
   sni: www.speedtest.net
   tls: false
   type: hysteria2
-- name: '10|@Filter_breaker | 🏴‍☠️ NA #5'
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #6'
   password: f6a7b8c9-d0e1-1234-f012-6789012345fg
   port: 444
   server: azadnet.t.me
   sni: www.speedtest.net
   tls: false
   type: hysteria2
-- name: '10|@Filter_breaker | 🏴‍☠️ NA #6'
+- name: '10|@Filter_breaker | 🏴‍☠️ NA #7'
   password: g7b8c9d0-e1f2-3456-f012-6789012345hi
   port: 9444
   server: 4n0nymou3.ir
