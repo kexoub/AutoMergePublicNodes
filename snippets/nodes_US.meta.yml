@@ -1314,6 +1314,14 @@ proxies:
   sni: f7c80a8d-svc1s0-t28b6o-ef48.los.gotochinatown.net
   tls: true
   type: socks5
+- name: '9|Channel id: @ShadowProxy66 🇺🇸'
+  password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+  port: 10086
+  server: 129.146.241.150
+  skip-cert-verify: true
+  sni: aus.pagate.top
+  tls: false
+  type: hysteria2
 - name: '11|Channel id: @ShadowProxy66🇺🇸'
   password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
   port: 3234

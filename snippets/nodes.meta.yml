@@ -1658,12 +1658,20 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 9|@v2Source🇩🇪
-  password: 627712cf-d0e1-4545-81fb-241e7fda0284
-  port: 443
-  server: 204.10.194.86
+- name: 9|@v2ray_configs_pool🇨🇦Canada️Va...
+  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
+  port: 47262
+  server: 40.233.73.221
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 🇭🇰'
+  password: 928a3318-b103-4f5f-ac80-1efd6f05d3d7
+  port: 50000
+  server: 47.238.98.245
+  skip-cert-verify: true
+  sni: ali.xiao666666.site
   tls: false
   type: hysteria2
 - name: 9|@NoForcedheaven
@@ -1673,6 +1681,38 @@ proxies:
   port: 443
   server: 46.62.152.236
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 '
+  password: be81e21d-02d8-4a60-a07e-c2202a50a549
+  port: 26923
+  server: yjjdhl.yunjijd.xyz
+  skip-cert-verify: true
+  sni: yjjdhl.yunjijd.xyz
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 🇺'
+  password: dongtaiwang.com
+  port: 50850
+  server: 45.129.2.108
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 🇺🇸'
+  password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+  port: 10086
+  server: 129.146.241.150
+  skip-cert-verify: true
+  sni: aus.pagate.top
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66 🇭🇰 #1'
+  password: nfsn666
+  port: 8888
+  server: 45.207.222.138
+  skip-cert-verify: true
+  sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
 - name: 10|@vpnv2rayNGv
@@ -1717,6 +1757,22 @@ proxies:
   password: 22f2c759db51b3d0
   port: 12122
   server: 109.120.135.123
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@meli_proxyy #2'
+  password: 627712cf-d0e1-4545-81fb-241e7fda0284
+  port: 443
+  server: 108.181.23.249
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@meli_proxyy #3'
+  password: 627712cf-d0e1-4545-81fb-241e7fda0284
+  port: 443
+  server: 192.9.176.249
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
