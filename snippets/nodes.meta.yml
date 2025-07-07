@@ -1693,7 +1693,7 @@ proxies:
   sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
-- name: 10|@meli_proxyy
+- name: 10|@vpnv2rayNGv
   obfs: salamander
   obfs-password: SNLJD19ZejtSdxW4
   password: 0c4c1a89-5645-4fc2-9e3b-ab09aa44e933
@@ -1863,7 +1863,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@vpnv2rayNGv #4'
+- name: '10|@vpnv2rayNGv #5'
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
