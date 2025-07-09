@@ -1849,6 +1849,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: 10|@V2rayNG3
+  password: '123456'
+  port: 443
+  server: 192.3.85.237
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #1'
   password: 15cca331-9e92-449d-93b0-25f82203595f
   port: 20309
   server: gb.gomeow.online
@@ -1856,7 +1864,7 @@ proxies:
   sni: gb.gomeow.online
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #1'
+- name: '10|@V2rayNG3 #2'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
   password: 22f2c759db51b3d0
@@ -2149,7 +2157,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #2'
+- name: '10|@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
@@ -2193,7 +2201,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #3'
+- name: '10|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
   password: '@azadi_az_inja_migzare'
@@ -2203,7 +2211,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #4'
+- name: '10|@V2rayNG3 #5'
   obfs: salamander
   obfs-password: bipbip
   password: AtTK3tiEA0
@@ -2212,7 +2220,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #5'
+- name: '10|@V2rayNG3 #6'
   obfs: salamander
   obfs-password: bleepbloop
   password: AtTK3tiEA0
@@ -2221,7 +2229,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #6'
+- name: '10|@V2rayNG3 #7'
   obfs: salamander
   obfs-password: bluhbluh
   password: AtTK3tiEA0
@@ -2384,7 +2392,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #7'
+- name: '10|@V2rayNG3 #8'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
@@ -2408,7 +2416,7 @@ proxies:
   sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #8'
+- name: '10|@V2rayNG3 #9'
   obfs: salamander
   obfs-password: dbc688df29e582d3
   password: f8e40931bbb827df
@@ -2475,6 +2483,42 @@ proxies:
   server: 185.146.173.3250
   skip-cert-verify: false
   sni: hysteria.de.vpnfree.org
+  tls: false
+  type: hysteria2
+- name: 10|@v2rayng_fars 🚀 Telegram
+  obfs: salamander
+  obfs-password: mkv_SEfr-salamdash
+  password: user10.thisismeSUperkl19201
+  port: 443
+  server: shade.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|@v2rayng_fars 🚀 Telegram #1'
+  obfs: salamander
+  obfs-password: The_Sefr-salamdash
+  password: user11.serverTest1234
+  port: 443
+  server: knock.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: 10|آلمان 🇩🇪 @V2xay
+  obfs: salamander
+  obfs-password: The_Sefr-salamdash
+  password: user12.myserverSEFR097
+  port: 443
+  server: knock.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|@v2rayng_fars 🚀 Telegram #3'
+  obfs: salamander
+  obfs-password: mkv_SEfr-salamdash
+  password: user15.SEFRlolpip192761
+  port: 443
+  server: shade.zone1.center
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '10|@Filter_breaker | Germany #3'
