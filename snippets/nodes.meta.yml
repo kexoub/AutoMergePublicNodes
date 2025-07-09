@@ -1722,6 +1722,26 @@ proxies:
   sni: ali.xiao666666.site
   tls: false
   type: hysteria2
+- name: 9,10|18@V2aryng_vpn
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  port: 35000
+  server: 206.71.158.40
+  skip-cert-verify: false
+  sni: pichondan.com
+  tls: false
+  type: hysteria2
+- name: 9,10|25🫒@V2aryng_vpn
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  port: 35000
+  server: 77.90.52.69
+  skip-cert-verify: false
+  sni: pichondan.com
+  tls: false
+  type: hysteria2
 - name: 9|🇺🇸
   password: RKrGw4dSUwK3YAvqdQI8tcqNl0
   port: 34060
@@ -2181,26 +2201,6 @@ proxies:
   sni: kor.pddwdf.store
   tls: false
   type: hysteria2
-- name: 10|18@V2aryng_vpn
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  port: 35000
-  server: 206.71.158.40
-  skip-cert-verify: false
-  sni: pichondan.com
-  tls: false
-  type: hysteria2
-- name: 10|25🫒@V2aryng_vpn
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  port: 35000
-  server: 77.90.52.69
-  skip-cert-verify: false
-  sni: pichondan.com
-  tls: false
-  type: hysteria2
 - name: '10|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -2400,12 +2400,28 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '10|Telegram:@config_proxy '
+  password: dongtaiwang.com
+  port: 30033
+  server: 46.17.41.217
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '10,11|Channel id: @ShadowProxy66🇫🇷'
   password: dongtaiwang.com
   port: 31180
   server: 51.159.111.32
   skip-cert-verify: true
   sni: apple.com
+  tls: false
+  type: hysteria2
+- name: 10|Telegram:@config_proxy 😍
+  password: dongtaiwang.com
+  port: 50066
+  server: 51.159.226.1
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 10|@Filter_breaker | Germany
@@ -2433,7 +2449,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@v2ray313 کانالن '
+- name: '10|@v2ray313 کانال '
   obfs: salamander
   obfs-password: v2raybluecrystal2
   password: jvTJxLMlcl
