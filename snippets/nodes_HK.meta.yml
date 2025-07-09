@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 2|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
+  name: 1|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
   network: ws
   port: 8080
   server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
@@ -61,16 +61,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|🇭🇰香港2 1倍 #1'
-  obfs: salamander
-  obfs-password: ML59VrE5sRxb22pS
-  password: bd41ef01-9e7c-4a25-b60c-fe52ea07bb9b
-  port: 443
-  server: hk2.vip.edu.kg
-  sni: hk2.vip.edu.kg
-  tls: false
-  type: hysteria2
-- name: '9,10|@vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب️ #1'
+- name: '9,10|@meli_proxyy #9'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
