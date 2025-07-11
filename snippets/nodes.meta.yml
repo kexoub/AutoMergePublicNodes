@@ -1715,7 +1715,7 @@ proxies:
   sni: ali.xiao666666.site
   tls: false
   type: hysteria2
-- name: 9,10| @V2RayTheKyo و   ش
+- name: 9,10|18@V2aryng_vpn
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1725,7 +1725,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 9,10|🇩🇪 《@V2RayTheKyo》 وصل شدی عضو ...
+- name: 9,10|25🫒@V2aryng_vpn
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1750,13 +1750,12 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9,10|🇳🇱 《@V2RayTheKyo》 وصل شدی عضو ...
+- name: '9|Channel id: @ShadowProxy66🇬🇧'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
@@ -1820,7 +1819,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9,10|@vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب️ #1'
+- name: 9,10|👉🆔@v2ray_configs_pool📡®️Hong K...
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -2325,6 +2324,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '10|Telegram:@config_proxy '
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: a6d7f6b26192a447220f7555732c913f
+  port: 33331
+  server: 109.120.179.185
+  skip-cert-verify: false
+  sni: marz.hideus.xyz
+  tls: false
+  type: hysteria2
 - name: 10|@vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب️
   password: be81e21d-02d8-4a60-a07e-c2202a50a549
   port: 26923
@@ -2488,7 +2497,7 @@ proxies:
   sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
-- name: '10|🇩🇪 《@V2RayTheKyo》 وصل شدی عضو ... #1'
+- name: 10|@v2rayng_fars 🚀 Telegram
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
   password: user10.thisismeSUperkl19201
@@ -2515,7 +2524,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '10|🇩🇪 《@V2RayTheKyo》 وصل شدی عضو ... #2'
+- name: '10|@v2rayng_fars 🚀 Telegram #3'
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
   password: user15.SEFRlolpip192761
