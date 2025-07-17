@@ -1723,7 +1723,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 8,9|آم  @V2xay
+- name: 8,9|آمن  @V2xay
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1803,7 +1803,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8,9|💎کانفیگ های بیشتر در چنل تلگرا...
+- name: 8,9|کانفیگ های بیشتر در چنل تلگرام...
   password: dongtaiwang.com
   port: 30033
   server: 46.17.41.217
@@ -2072,21 +2072,11 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '9|Telegram : @Ezaccess1 Server :... #3'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36600
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: '9|Telegram : @Ezaccess1 Server :... #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
-  port: 36400
+  port: 36600
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
@@ -2231,16 +2221,7 @@ proxies:
   sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
-- name: '9|Telegram : @Ezaccess1 Server :... #4'
-  obfs: salamander
-  obfs-password: mkv_SEfr-salamdash
-  password: user10.thisismeSUperkl19201
-  port: 443
-  server: shade.zone1.center
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '9|Telegram : @Ezaccess1 Server :... #5'
+- name: '9|Telegram : @Ezaccess1 Server :... #3'
   obfs: salamander
   obfs-password: The_Sefr-salamdash
   password: user11.serverTest1234
