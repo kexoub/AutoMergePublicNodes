@@ -85,6 +85,16 @@ proxies:
   udp: true
   uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
   xudp: true
+- name: 10|🇩🇪 @VPNHubMaRKeT ♾  @VpnHubMar...
+  obfs: salamander
+  obfs-password: '@VPNHubMaRKeT'
+  password: '@VPNHubMaRKeT'
+  port: 443
+  server: 202.78.166.190
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '10|آلمان 🇩🇪 @V2xay #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -95,6 +105,15 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
+- name: 10|🇩🇪 @VPNHubMaRKeT ⚡️  @VpnHubMa...
+  obfs: salamander
+  obfs-password: tel:@VPNHubMaRKeT
+  password: VPNHubMaRKeT
+  port: 9999
+  server: 3.123.253.70
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 10|@Filter_breaker | Germany
   password: e9f0g1h2-3456-7bcd-8abc-9012abcdef34
   port: 443
@@ -103,7 +122,7 @@ proxies:
   sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
-- name: 10|آمان 🇩🇪 @V2xay
+- name: '10|آلمان 🇩🇪 @V2xay #2'
   obfs: salamander
   obfs-password: Djxsjduwue
   password: k1sCJ4SJQj
@@ -128,7 +147,16 @@ proxies:
   sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
-- name: '10|آلمان 🇩🇪 @V2xay #2'
+- name: '10|Telegram : @Ezaccess1 Server :... #5'
+  obfs: salamander
+  obfs-password: The_Sefr-salamdash
+  password: user11.serverTest1234
+  port: 443
+  server: knock.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|آلمان 🇩🇪 @V2xay #3'
   obfs: salamander
   obfs-password: The_Sefr-salamdash
   password: user12.myserverSEFR097
