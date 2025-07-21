@@ -1337,14 +1337,6 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
-- name: 9|@Filter_breaker | United State...
-  password: c7d8e9f0-1234-5bcd-6abc-7890abcdef12
-  port: 443
-  server: 104.21.25.390
-  skip-cert-verify: false
-  sni: hysteria.workers.dev
-  tls: false
-  type: hysteria2
 - name: '10|Channel id: @ShadowProxy66🇺🇸 #1'
   password: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
   port: 47262

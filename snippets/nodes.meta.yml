@@ -1958,14 +1958,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|@Daily_Configs
-  password: 867f512f-93d2-4344-853c-50965de9b103
-  port: 55215
-  server: shy39.zqjc.cloud
-  skip-cert-verify: false
-  sni: shy39.zqjc.cloud
-  tls: false
-  type: hysteria2
 - name: '9|美国10 付费推荐：https://dafei.de #1'
   password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
   port: 45000
@@ -2059,7 +2051,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9|@Daily_Configs #1'
+- name: 9|@Daily_Configs
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2083,16 +2075,6 @@ proxies:
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: 9|@Filter_breaker | United Kingd...
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36600
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
@@ -2123,23 +2105,6 @@ proxies:
   port: 37804
   server: 78.138.118.228
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 9|@Filter_breaker_206.71.158.40
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b5c1b004cd051ef2f6ffedda2e47d538
-  port: 33331
-  server: 206.71.158.40
-  sni: jnir-1.pichondan.com
-  tls: false
-  type: hysteria2
-- name: 9|@Filter_breaker | United State...
-  password: c7d8e9f0-1234-5bcd-6abc-7890abcdef12
-  port: 443
-  server: 104.21.25.390
-  skip-cert-verify: false
-  sni: hysteria.workers.dev
   tls: false
   type: hysteria2
 - name: '9|Telegram@vmessorg #1'
@@ -2206,14 +2171,6 @@ proxies:
   server: 51.159.111.32
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 9|@Filter_breaker | Germany
-  password: e9f0g1h2-3456-7bcd-8abc-9012abcdef34
-  port: 443
-  server: 185.146.173.2450
-  skip-cert-verify: false
-  sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
 - name: '9|@V2rayNG3 #9'
@@ -2288,22 +2245,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9|@Filter_breaker | Germany #1'
-  password: o9p0q1r2-9012-3bcd-4abc-5678abcdef12
-  port: 443
-  server: 185.146.173.2900
-  skip-cert-verify: false
-  sni: hysteria.de.vpnfree.org
-  tls: false
-  type: hysteria2
-- name: '9|@Filter_breaker | Germany #2'
-  password: u5v6w7x8-9012-3bcd-4abc-5678abcdef34
-  port: 443
-  server: 185.146.173.3250
-  skip-cert-verify: false
-  sni: hysteria.de.vpnfree.org
-  tls: false
-  type: hysteria2
 - name: 9|(@vmesskhodam)چنل
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
@@ -2320,14 +2261,6 @@ proxies:
   port: 443
   server: knock.zone1.center
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '9|@Filter_breaker | Germany #3'
-  password: w7x8y9z0-3456-7bcd-8abc-9012abcdef90
-  port: 443
-  server: 185.146.173.3400
-  skip-cert-verify: false
-  sni: hysteria.de.vpnfree.org
   tls: false
   type: hysteria2
 - name: '9|Telegram@vmessorg #2'
