@@ -1965,6 +1965,13 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: '10|Telegram:@config_proxy '
+  password: 96ccaa92-f487-4673-b8f5-a6ee167d6f39
+  port: 11683
+  server: yume-us.legeth.xyz
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 10|v2ray_market11
   obfs: salamander
   obfs-password: xu0SJY749OrXVi27YoOyTS
@@ -2139,6 +2146,13 @@ proxies:
   server: 91.217.119.51
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 10|Telegram:@config_proxy 😍
+  password: dongtaiwang.com
+  port: 50850
+  server: 45.129.2.108
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 10|@V2ray1_Ng
