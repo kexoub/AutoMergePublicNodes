@@ -1353,6 +1353,14 @@ proxies:
   sni: hysteria.workers.dev
   tls: false
   type: hysteria2
+- name: '10|美国10 付费推荐：https://dafei.de #3'
+  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
+  port: 45000
+  server: 107.174.41.101
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: '11|Channel id: @ShadowProxy66🇺🇸 #1'
   password: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
   port: 47262
