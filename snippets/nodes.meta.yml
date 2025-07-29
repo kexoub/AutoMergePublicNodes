@@ -1348,11 +1348,13 @@ proxies:
   ws-opts:
     path: /6603a779
 - auth: 2ec58858-976b-11ea-82ef-f23c9164ca5d
-  name: 2|🇺🇸98 |  1.3MB/s
+  name: 2,10|  Telegram @v2rayng_fars
   password: 2ec58858-976b-11ea-82ef-f23c9164ca5d
   port: 8443
   server: 6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net
+  skip-cert-verify: false
   sni: 6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net
+  tls: false
   type: hysteria2
   udp: true
 - name: 2|🇺🇸99 |  4.8MB/s|0%|Openai|Gemi...
@@ -1792,7 +1794,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '9,11|Channel id: @ShadowProxy66🇫🇷'
+- name: '9,10,11|Channel id: @ShadowProxy66🇫🇷'
   password: dongtaiwang.com
   port: 31180
   server: 51.159.111.32
@@ -1837,19 +1839,540 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 10|@CanfigVip+🍕
+  password: 07c122ad-50b2-4f61-9435-efcf112bb10b
+  port: 56704
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: dxobg4azmk.gafnode.sbs
+  tls: false
+  type: hysteria2
+- name: 10|@V2rayNG3
+  password: 15cca331-9e92-449d-93b0-25f82203595f
+  port: 20309
+  server: gb.gomeow.online
+  skip-cert-verify: false
+  sni: gb.gomeow.online
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #1'
+  obfs: salamander
+  obfs-password: de8287cd33b05fa3
+  password: 22f2c759db51b3d0
+  port: 12122
+  server: 109.120.135.123
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 10|10 https://dafei.de
+  password: 27e473f8-d610-4b04-bdf7-d0c39b47c897
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal2
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 4VDmo53kWX
+  port: 18865
+  server: 185.219.81.33
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 4VDmo53kWX
+  port: 20675
+  server: 185.219.81.33
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal3
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 4VDmo53kWX
+  port: 50757
+  server: 185.219.81.33
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|美国10 付费推荐：https://dafei.de
+  password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
+  port: 45000
+  server: 107.174.41.101
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 10|@Cook_Vpn
+  password: 5eba9a60-ac9a-435b-a11f-e2b6dea4bd8e
+  port: 21811
+  server: gin.mxtn.net
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10,11|Channel id: @ShadowProxy66🇺🇸'
+  password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
+  port: 3234
+  server: 209.141.47.127
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|美国10 付费推荐：https://dafei.de #1'
+  password: 67828a6e-0144-4e57-8169-2447a3dd2e61
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #2'
+  password: 75577117-ABCD-DCBA-AAAA-CC777775577B
+  port: 7777
+  server: s15.serv00.com
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|美国10 付费推荐：https://dafei.de #2'
+  password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 10|telegram  @v2rayNG_Matsuri
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  port: 35000
+  server: 206.71.158.40
+  skip-cert-verify: true
+  sni: pichondan.com
+  tls: false
+  type: hysteria2
+- name: 10|آم  @V2xay
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  port: 35000
+  server: 77.90.52.69
+  skip-cert-verify: true
+  sni: pichondan.com
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #3'
+  obfs: salamander
+  obfs-password: '@azadi_az_inja_migzare'
+  password: '@azadi_az_inja_migzare'
+  port: 443
+  server: all-v4.dgi000.store
+  skip-cert-verify: false
+  sni: all-v4.dgi000.store
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #4'
+  obfs: salamander
+  obfs-password: bipbip
+  password: AtTK3tiEA0
+  port: 19037
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #5'
+  obfs: salamander
+  obfs-password: bleepbloop
+  password: AtTK3tiEA0
+  port: 2087
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #6'
+  obfs: salamander
+  obfs-password: bluhbluh
+  password: AtTK3tiEA0
+  port: 44929
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal2-ger
+  obfs: salamander
+  obfs-password: v2raybluecrystal2
+  password: F6HtMurQGt
+  port: 16666
+  server: 185.211.101.15
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal-ger
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: F6HtMurQGt
+  port: 20358
+  server: 185.211.101.15
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal3-ger
+  obfs: salamander
+  obfs-password: v2raybluecrystal3
+  password: F6HtMurQGt
+  port: 48233
+  server: 185.211.101.15
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|Telegram@vmessorg
+  password: JSC7GnvDM4mIitnCZXQo8IKSPs
+  port: 29713
+  server: 13.250.121.168
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal2-la
+  obfs: salamander
+  obfs-password: v2raybluecrystal2
+  password: Jj0FrgSd85
+  port: 17083
+  server: 165.140.166.78
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal3-la
+  obfs: salamander
+  obfs-password: v2raybluecrystal3
+  password: Jj0FrgSd85
+  port: 41003
+  server: 165.140.166.78
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal-la
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: Jj0FrgSd85
+  port: 50163
+  server: 165.140.166.78
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@Daily_Configs
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal3-hou
+  obfs: salamander
+  obfs-password: v2raybluecrystal3
+  password: UnYCJJ9AQy
+  port: 24803
+  server: 146.19.56.21
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal-hou
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: UnYCJJ9AQy
+  port: 28165
+  server: 146.19.56.21
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal2-hou
+  obfs: salamander
+  obfs-password: v2raybluecrystal2
+  password: UnYCJJ9AQy
+  port: 57418
+  server: 146.19.56.21
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@SaghiVpnX[]
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35200
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 10|@Filter_breaker | United Kingd...
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36600
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal2 #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: Ys1Z1iA996
+  port: 22527
+  server: 78.138.118.228
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal3 #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: Ys1Z1iA996
+  port: 33113
+  server: 78.138.118.228
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: Ys1Z1iA996
+  port: 37804
+  server: 78.138.118.228
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@Filter_breaker_206.71.158.40
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b5c1b004cd051ef2f6ffedda2e47d538
+  port: 33331
+  server: 206.71.158.40
+  sni: jnir-1.pichondan.com
+  tls: false
+  type: hysteria2
+- name: '10|Telegram@vmessorg #1'
+  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+  port: 45979
+  server: 150.230.30.237
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|美国10 付费推荐：https://dafei.de #3'
+  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
+  port: 45000
+  server: 107.174.41.101
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 10|@V2ray_cartel
+  password: dongtaiwang.com
+  port: 50850
+  server: 45.129.2.108
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #7'
+  password: dongtaiwang.com
+  port: 50717
+  server: 46.17.41.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 10| 🇺 @V2xay
+  password: dongtaiwang.com
+  port: 30033
+  server: 46.17.41.217
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal4-tur
+  obfs: salamander
+  obfs-password: xfvg@FFG
+  password: e2QEtNgU9v
+  port: 13222
+  server: 5.133.102.59
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@GVgg#v2raybluecrystal3-tur
+  obfs: salamander
+  obfs-password: FF
+  password: e2QEtNgU9v
+  port: 28958
+  server: 5.133.102.59
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal-tur
+  obfs: salamander
+  obfs-password: xfvgb@ssV
+  password: e2QEtNgU9v
+  port: 30062
+  server: 5.133.102.59
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal2-tur
+  obfs: salamander
+  obfs-password: vbn@ffFF
+  password: e2QEtNgU9v
+  port: 41250
+  server: 5.133.102.59
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #8'
+  obfs: salamander
+  obfs-password: dbc688df29e582d3
+  password: f8e40931bbb827df
+  port: 12123
+  server: 62.60.231.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal-ind
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: fzgdaH0cJ7
+  port: 11282
+  server: 160.191.183.244
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal2-ind
+  obfs: salamander
+  obfs-password: v2raybluecrystal2
+  password: fzgdaH0cJ7
+  port: 14849
+  server: 160.191.183.244
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|v2raybluecrystal3-ind
+  obfs: salamander
+  obfs-password: v2raybluecrystal3
+  password: fzgdaH0cJ7
+  port: 48004
+  server: 160.191.183.244
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal2 #2'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: mItioklzVp
+  port: 22527
+  server: 78.138.118.228
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal3 #2'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: mItioklzVp
+  port: 33113
+  server: 78.138.118.228
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal #2'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: mItioklzVp
+  port: 37804
+  server: 78.138.118.228
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal2 #3'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: mItioklzVp
+  port: 22527
+  server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal3 #3'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: mItioklzVp
+  port: 33113
+  server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal #3'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: mItioklzVp
+  port: 37804
+  server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@Filter_breaker | Germany
+  password: u5v6w7x8-9012-3bcd-4abc-5678abcdef34
+  port: 443
+  server: 185.146.173.3250
+  skip-cert-verify: false
+  sni: hysteria.de.vpnfree.org
+  tls: false
+  type: hysteria2
+- name: 10|(@vmesskhodam)چنل
+  obfs: salamander
+  obfs-password: mkv_SEfr-salamdash
+  password: user10.thisismeSUperkl19201
+  port: 443
+  server: shade.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|آلمان 🇩🇪 @V2xay #2'
+  obfs: salamander
+  obfs-password: The_Sefr-salamdash
+  password: user12.myserverSEFR097
+  port: 443
+  server: knock.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '10|@Filter_breaker | Germany #1'
+  password: w7x8y9z0-3456-7bcd-8abc-9012abcdef90
+  port: 443
+  server: 185.146.173.3400
+  skip-cert-verify: false
+  sni: hysteria.de.vpnfree.org
+  tls: false
+  type: hysteria2
+- name: '10|Telegram@vmessorg #2'
+  password: yoP8tOtEhMTSBUPY9LwnHABvFE
+  port: 14933
+  server: 18.136.211.127
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 11|@drakvpn🐉
   password: dongtaiwang.com
   port: 12904
   server: 46.17.41.5
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: '11|Channel id: @ShadowProxy66🇺🇸'
-  password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
-  port: 3234
-  server: 209.141.47.127
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '11|Channel id: @ShadowProxy66🇺🇸 #1'
