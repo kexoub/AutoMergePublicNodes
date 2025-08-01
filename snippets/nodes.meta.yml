@@ -2332,15 +2332,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|@Filter_breaker_206.71.158.40
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b5c1b004cd051ef2f6ffedda2e47d538
-  port: 33331
-  server: 206.71.158.40
-  sni: jnir-1.pichondan.com
-  tls: false
-  type: hysteria2
 - name: '10|Telegram@vmessorg #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
@@ -2459,6 +2450,13 @@ proxies:
   password: fzgdaH0cJ7
   port: 48004
   server: 160.191.183.244
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|Telegram:@config_proxy 😍
+  password: kWlrCka5jzfKbD2z7ucwANEdZM
+  port: 26404
+  server: 47.245.53.59
   skip-cert-verify: true
   tls: false
   type: hysteria2
