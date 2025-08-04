@@ -1885,6 +1885,13 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|@meli_proxyy
+  password: 07a95561-a7c6-40fb-b964-45c83a2833bf
+  port: 51234
+  server: 185.184.70.120
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 10|@V2rayNG3
   password: '123456'
   port: 443
