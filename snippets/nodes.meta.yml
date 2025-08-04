@@ -1793,7 +1793,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@v2ray_configs_pool #14'
+- name: '7,8|@v2ray_configs_pool #7'
   password: cc83a02b-90ea-403b-9c76-27e4be95f637
   port: 50256
   server: 154.204.181.230
@@ -1809,7 +1809,7 @@ proxies:
   sni: gbr1.587458.xyz
   tls: false
   type: hysteria2
-- name: '7,8|@v2ray_configs_pool #15'
+- name: '7,8|@v2ray_configs_pool #8'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -1817,7 +1817,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '7,8|@v2ray_configs_pool #16'
+- name: '7,8|@v2ray_configs_pool #9'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -1839,7 +1839,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '7,8|@v2ray_configs_pool #17'
+- name: '7,8|@v2ray_configs_pool #10'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -1870,7 +1870,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@v2ray_configs_pool #19'
+- name: '7,8|@v2ray_configs_pool #12'
   password: wl4HYN9PPKs8d8IzGIt4yKqt0
   port: 53348
   server: 47.74.34.102
@@ -1942,14 +1942,6 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
-- name: '8|@v2ray_configs_pool #7'
-  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
-  port: 443
-  server: 104.168.34.109
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|🛡️ @FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1960,7 +1952,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 8| 🇩🇪 @V2xay
+- name: 8|آم 🇩🇪 @V2xay
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2032,7 +2024,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@v2ray_configs_pool #8'
+- name: '8|آلمان 🇩🇪 @V2xay #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2042,7 +2034,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|@v2ray_configs_pool #10'
+- name: '8|@warp_city #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2062,33 +2054,13 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@v2ray_configs_pool #11'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '8|@v2ray_configs_pool #12'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36400
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '8|@v2ray_configs_pool #13'
+- name: '8|🛡️ @FreakConfig #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36600
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
@@ -2149,7 +2121,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|🛡️ @FreakConfig #3'
+- name: 8|️ @FreakConfig
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
