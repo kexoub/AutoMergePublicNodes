@@ -2096,6 +2096,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|@Configology
+  password: J7VnJazPBw
+  port: 443
+  server: 91.98.34.130
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
 - name: 10|Telegram@vmessorg
   password: JSC7GnvDM4mIitnCZXQo8IKSPs
   port: 29713
