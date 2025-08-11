@@ -23,7 +23,7 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
-- name: 9|🇯🇵日本
+- name: 9|日本
   password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
   port: 443
   server: aws-linkhy17.liangxin1.xyz
