@@ -6,15 +6,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9|Hy2-3
-  password: 1c473b13-502d-47eb-8cf8-70a38d56c5bd
-  port: 443
-  server: jp1.interld123456789.com
-  skip-cert-verify: true
-  sni: 1231231.1234567890spcloud.com
-  tls: false
-  type: hysteria2
-- name: '9|Channel id: @ShadowProxy66'
+- name: '9|Channel id: @ShadowProxy66🇨🇦'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 129.153.52.235
@@ -22,7 +14,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66 #1'
+- name: '9|Channel id: @ShadowProxy66🇵'
   password: 262100bd-a0c7-4412-a62d-a07d01f11a6a
   port: 443
   server: 153.121.42.218
@@ -142,7 +134,7 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
-- name: '9,10|Telegram:@config_proxy '
+- name: 9|🍰28@oneclickvpnkeys
   password: 7fb6dcc5-5396-4b95-bfe3-789f5c0120be
   port: 22153
   server: hsxg.huasuan666.top
@@ -150,7 +142,7 @@ proxies:
   sni: hsxg.huasuan666.top
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇨🇦'
+- name: '9|Channel id: @ShadowProxy66🇨🇦 #1'
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 54530
   server: 192.18.150.167
@@ -158,14 +150,22 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66 #3'
+- name: '9|Telegram:@config_proxy '
+  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
+  port: 54530
+  server: 40.233.83.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '9|Channel id: @ShadowProxy66🇷'
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 46502
   server: 172.252.236.213
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇦'
+- name: '9|Channel id: @ShadowProxy66🇺'
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 59494
   server: 185.126.255.78
@@ -281,7 +281,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇰 #2'
+- name: '9|Channel id: @ShadowProxy66🇭🇰 #1'
   password: cc83a02b-90ea-403b-9c76-27e4be95f637
   port: 50256
   server: 154.204.181.230
@@ -297,7 +297,7 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: 9,10|@Selinc
+- name: '9|Channel id: @ShadowProxy66🇺🇸 #2'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -305,7 +305,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 9,10|️ @FreakConfig
+- name: '9|Channel id: @ShadowProxy66🇺🇸 #3'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -313,7 +313,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '9,10|@Hddify '
+- name: '9|Channel id: @ShadowProxy66🇫🇷'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -335,7 +335,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇬 #1'
+- name: '9|Channel id: @ShadowProxy66🇸🇬 #2'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -351,7 +351,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇭🇰'
+- name: '9|Channel id: @ShadowProxy66🇭🇰 #2'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -399,228 +399,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 10|@V2rayNG3
-  password: '123456'
-  port: 443
-  server: 192.3.85.237
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #1'
-  password: 15cca331-9e92-449d-93b0-25f82203595f
-  port: 20309
-  server: gb.gomeow.online
-  skip-cert-verify: false
-  sni: gb.gomeow.online
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #2'
-  obfs: salamander
-  obfs-password: de8287cd33b05fa3
-  password: 22f2c759db51b3d0
-  port: 12122
-  server: 109.120.135.123
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|@EXPRESSVPN_420   '
-  password: 3QlSMKyqLp
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: 10|MCI-@Tunder_vpn
-  password: 627712cf-d0e1-4545-81fb-241e7fda0284
-  port: 443
-  server: 108.181.23.241
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|MCI-@Tunder_vpn #1'
-  password: 627712cf-d0e1-4545-81fb-241e7fda0284
-  port: 443
-  server: 108.181.23.249
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|MCI-@Tunder_vpn #2'
-  password: 627712cf-d0e1-4545-81fb-241e7fda0284
-  port: 443
-  server: 108.181.23.255
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|MCI-@Tunder_vpn #3'
-  password: 627712cf-d0e1-4545-81fb-241e7fda0284
-  port: 443
-  server: 204.10.194.86
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #3'
-  password: 75577117-ABCD-DCBA-AAAA-CC777775577B
-  port: 7777
-  server: s15.serv00.com
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 10|ا ها  ر ن ترا💎 Config_Rayegan@
-  password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
-  port: 31468
-  server: 77.223.214.193
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #4'
-  obfs: salamander
-  obfs-password: '@azadi_az_inja_migzare'
-  password: '@azadi_az_inja_migzare'
-  port: 443
-  server: all-v4.dgi000.store
-  skip-cert-verify: false
-  sni: all-v4.dgi000.store
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #5'
-  obfs: salamander
-  obfs-password: bipbip
-  password: AtTK3tiEA0
-  port: 19037
-  server: p1.punchline.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #6'
-  obfs: salamander
-  obfs-password: bleepbloop
-  password: AtTK3tiEA0
-  port: 2087
-  server: p1.punchline.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #7'
-  obfs: salamander
-  obfs-password: bluhbluh
-  password: AtTK3tiEA0
-  port: 44929
-  server: p1.punchline.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 10|@Daily_Configs
-  obfs: salamander
-  obfs-password: aA@8795
-  password: FREEEE_7.87958795
-  port: 443
-  server: 91.107.251.13
-  skip-cert-verify: true
-  sni: fast.com
-  tls: false
-  type: hysteria2
-- name: 10|@ELFV2RAY
-  password: J7VnJazPBw
-  port: 443
-  server: 91.98.34.130
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: 10|TEL > SaghiVpnXBOT [🇳🇱]
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35200
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: 10|🛡️ @FreakConfig
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36600
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: 10|@V2ray1_Ng
-  password: dongtaiwang.com
-  port: 50850
-  server: 45.129.2.108
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #8'
-  password: dongtaiwang.com
-  port: 50717
-  server: 46.17.41.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #9'
-  obfs: salamander
-  obfs-password: dbc688df29e582d3
-  password: f8e40931bbb827df
-  port: 12123
-  server: 62.60.231.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '10|🛡️ @FreakConfig #1'
-  password: kWlrCka5jzfKbD2z7ucwANEdZM
-  port: 26404
-  server: 47.245.53.59
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '10|@Selinc #1'
-  password: n9OgQprayM
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: 10|@v2rayNGcloud
-  password: xnChC7dKZ8
-  port: 443
-  server: 91.98.34.130
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: 10|@SaghiVpnXBOT 🇩🇪[🇩🇪]
-  password: xnChC7dKZ8
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: '10|@Selinc #2'
-  password: zPb5RRsckD
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
 - cipher: aes-256-cfb
   name: 12|tg频道:@ripaojiedian
   password: amazonskr05
@@ -630,11 +408,10 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 12,13|香港|@ripaojiedian
+  name: 12|🇭🇰 香港|@ripaojiedian
   network: ws
-  port: '30809'
+  port: 30809
   server: v9.heduian.link
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -659,16 +436,14 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- name: 12,13|香港3|@ripaojiedian
-  network: tcp
+- name: 12|🇭🇰 香港3|@ripaojiedian
   password: 2ee85121-31de-4581-a492-eb00f606e392
   port: 443
   server: 103.252.116.138
   skip-cert-verify: false
   sni: hk.freeguard.org
   type: trojan
-- name: 12,13|香港4|@ripaojiedian
-  network: tcp
+- name: 12|🇭🇰 香港4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 447
   server: 36.156.102.125
@@ -677,11 +452,10 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 12,13|香港5|@ripaojiedian
+  name: 12|🇭🇰 香港5|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: hkt.gotochinatown.net
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -691,8 +465,7 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 12,13|香港6|@ripaojiedian
-  network: tcp
+- name: 12|🇭🇰 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 444
   server: 36.156.102.125
@@ -701,11 +474,10 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 12,13|香港7|@ripaojiedian
+  name: 12|🇭🇰 香港7|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: f0364aea-t13gg0-t1rksu-1ssud.hk3.p5pv.com
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -741,16 +513,14 @@ proxies:
   server: 137.220.191.40
   tfo: false
   type: ss
-- name: 12,13|日本3|@ripaojiedian
-  network: tcp
+- name: 12|🇯🇵 日本3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 409
   server: 36.156.102.78
   skip-cert-verify: true
   sni: 1-dy.ixigua.com
   type: trojan
-- name: 12,13|日本4|@ripaojiedian
-  network: tcp
+- name: 12|🇯🇵 日本4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 461
   server: 36.156.102.125
@@ -771,16 +541,14 @@ proxies:
   server: 154.90.63.177
   tfo: false
   type: ss
-- name: 12,13|新加坡|@ripaojiedian
-  network: tcp
+- name: 12|🇸🇬 新加坡|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1256
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|新加坡2|@ripaojiedian
-  network: tcp
+- name: 12|🇸🇬 新加坡2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 406
   server: 36.156.102.125
@@ -810,53 +578,20 @@ proxies:
   server: cn01.efan8867801.xyz
   tfo: false
   type: ss
-- name: 12,13|美国3|@ripaojiedian
-  network: tcp
+- name: 12|🇺🇸 美国3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 347
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|美国4|@ripaojiedian
-  network: tcp
+- name: 12|🇺🇸 美国4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 22006
   server: 36.156.102.67
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 13|香港v2|@ripaojiedian
-  network: kcp
-  port: '3351'
-  server: 47.83.181.154
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0bfc8acf-ac40-45c1-8dde-7f3417621286
-- alterId: 0
-  cipher: auto
-  name: 13|日本v2|@ripaojiedian
-  network: kcp
-  port: '37257'
-  server: 47.74.57.10
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cb774883-1c2f-4b8a-8637-828f356e0c76
-- name: 13|美国|@ripaojiedian
-  network: ws
-  password: 7248e825-887c-48b9-83bc-c26bc6392bf8
-  port: 443
-  server: 172.67.214.21
-  sni: xXcdvFgt.191268.XYz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: xXcdvFgt.191268.XYz
-    path: '%2FctdmgeIg3NII3ibrzzKXJGy3S1'
 - name: 14|AE_speednode_0001
   network: ws
   port: 8880
