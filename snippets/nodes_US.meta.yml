@@ -1,5 +1,5 @@
 proxies:
-- name: '9|Channel id: @ShadowProxy66🇺🇸'
+- name: '9|Channel id: @proxy_kafee🇺🇸'
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
@@ -7,7 +7,7 @@ proxies:
   sni: 192-227-152-86.nip.io
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇺🇸 #1'
+- name: '9|Channel id: @proxy_kafee🇺🇸 #1'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
   server: 198.23.130.211
@@ -55,7 +55,7 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇺🇸 #2'
+- name: 9,10|@Selinc
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -89,7 +89,8 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 12|🇺🇸 美国3|@ripaojiedian
+  name: 12,13|美国3|@ripaojiedian
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 347
   server: 36.156.102.125
@@ -97,13 +98,25 @@ proxies:
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
-  name: 12|🇺🇸 美国4|@ripaojiedian
+  name: 12,13|美国4|@ripaojiedian
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 22006
   server: 36.156.102.67
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
+- name: 13|美国|@ripaojiedian
+  network: ws
+  password: 7248e825-887c-48b9-83bc-c26bc6392bf8
+  port: 443
+  server: 172.67.214.21
+  sni: xXcdvFgt.191268.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: xXcdvFgt.191268.XYz
+    path: '%2FctdmgeIg3NII3ibrzzKXJGy3S1'
 - name: 14|US_speednode_0244
   network: ws
   port: 8880
