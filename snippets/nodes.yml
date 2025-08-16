@@ -8,11 +8,10 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 12,13|香港|@ripaojiedian
+  name: 12|🇭🇰 香港|@ripaojiedian
   network: ws
-  port: '30809'
+  port: 30809
   server: v9.heduian.link
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -37,16 +36,14 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- name: 12,13|香港3|@ripaojiedian
-  network: tcp
+- name: 12|🇭🇰 香港3|@ripaojiedian
   password: 2ee85121-31de-4581-a492-eb00f606e392
   port: 443
   server: 103.252.116.138
   skip-cert-verify: false
   sni: hk.freeguard.org
   type: trojan
-- name: 12,13|香港4|@ripaojiedian
-  network: tcp
+- name: 12|🇭🇰 香港4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 447
   server: 36.156.102.125
@@ -55,11 +52,10 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 12,13|香港5|@ripaojiedian
+  name: 12|🇭🇰 香港5|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: hkt.gotochinatown.net
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -69,8 +65,7 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 12,13|香港6|@ripaojiedian
-  network: tcp
+- name: 12|🇭🇰 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 444
   server: 36.156.102.125
@@ -79,11 +74,10 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 12,13|香港7|@ripaojiedian
+  name: 12|🇭🇰 香港7|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: f0364aea-t13gg0-t1rksu-1ssud.hk3.p5pv.com
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -119,16 +113,14 @@ proxies:
   server: 137.220.191.40
   tfo: false
   type: ss
-- name: 12,13|日本3|@ripaojiedian
-  network: tcp
+- name: 12|🇯🇵 日本3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 409
   server: 36.156.102.78
   skip-cert-verify: true
   sni: 1-dy.ixigua.com
   type: trojan
-- name: 12,13|日本4|@ripaojiedian
-  network: tcp
+- name: 12|🇯🇵 日本4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 461
   server: 36.156.102.125
@@ -149,16 +141,14 @@ proxies:
   server: 154.90.63.177
   tfo: false
   type: ss
-- name: 12,13|新加坡|@ripaojiedian
-  network: tcp
+- name: 12|🇸🇬 新加坡|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1256
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|新加坡2|@ripaojiedian
-  network: tcp
+- name: 12|🇸🇬 新加坡2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 406
   server: 36.156.102.125
@@ -188,53 +178,20 @@ proxies:
   server: cn01.efan8867801.xyz
   tfo: false
   type: ss
-- name: 12,13|美国3|@ripaojiedian
-  network: tcp
+- name: 12|🇺🇸 美国3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 347
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 12,13|美国4|@ripaojiedian
-  network: tcp
+- name: 12|🇺🇸 美国4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 22006
   server: 36.156.102.67
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 13|香港v2|@ripaojiedian
-  network: kcp
-  port: '3351'
-  server: 47.83.181.154
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0bfc8acf-ac40-45c1-8dde-7f3417621286
-- alterId: 0
-  cipher: auto
-  name: 13|日本v2|@ripaojiedian
-  network: kcp
-  port: '37257'
-  server: 47.74.57.10
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cb774883-1c2f-4b8a-8637-828f356e0c76
-- name: 13|美国|@ripaojiedian
-  network: ws
-  password: 7248e825-887c-48b9-83bc-c26bc6392bf8
-  port: 443
-  server: 172.67.214.21
-  sni: xXcdvFgt.191268.XYz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: xXcdvFgt.191268.XYz
-    path: '%2FctdmgeIg3NII3ibrzzKXJGy3S1'
 - name: 14|AM_speednode_0011
   network: ws
   password: Aimer
