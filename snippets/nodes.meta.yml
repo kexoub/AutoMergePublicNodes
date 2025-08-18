@@ -530,7 +530,7 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
-- name: '10|@EXPRESSVPN_420   '
+- name: 10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها او ر...
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
@@ -608,10 +608,25 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...
+  password: Bz0jKM83wa
+  port: 443
+  server: android.yas-nowin.ir
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
 - name: 10|@ELFV2RAY
   password: J7VnJazPBw
   port: 443
   server: 91.98.34.130
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: '10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها #1'
+  password: J7VnJazPBw
+  port: 443
+  server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
   tls: false
@@ -677,7 +692,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@Selinc #1'
+- name: '10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #1'
   password: n9OgQprayM
   port: 443
   server: android.yas-nowin.ir
@@ -701,7 +716,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '10|@Selinc #2'
+- name: '10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #3'
   password: zPb5RRsckD
   port: 443
   server: android.yas-nowin.ir
