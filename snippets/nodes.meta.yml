@@ -377,7 +377,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '9,10|🛡️ @FreakConfig #1'
+- name: 9,10|️ @FreakConfig
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -487,15 +487,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '10|未命名 #4'
-  obfs: salamander
-  obfs-password: '7859542545'
-  password: 01telegram-ID-free_vpn0088
-  port: 40725
-  server: sumibi.org.sumibi.org
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 10|@V2rayNG3
   password: '123456'
   port: 443
@@ -542,6 +533,14 @@ proxies:
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 10|ان های ی د نل ترا💎 Config_Raye...
+  password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
+  port: 31468
+  server: 77.223.214.193
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -652,7 +651,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '10|🛡️ @FreakConfig #2'
+- name: '10|🛡️ @FreakConfig #1'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
