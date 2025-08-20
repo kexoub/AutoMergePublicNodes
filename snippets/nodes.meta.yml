@@ -377,7 +377,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 9,10|️ @FreakConfig
+- name: 9,10|ًں،ï¸ڈ @FreakConfig
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -393,7 +393,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9,10| 𝗝𝗼𝗶𝗻 ➠ @Viturey
+- name: '9,10|âک‍ ً‌—‌ً‌—¼ً‌—¶ً‌—» â‍  @Vitu... #3'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -415,7 +415,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '9|Channel id: @ShadowProxy66🇸🇬 #2'
+- name: 9,10|Telegram:@config_proxy ًں
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -513,7 +513,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها او ر...
+- name: 10|ًں‡©ًں‡ھً‌—ڑً‌—²ً‌—؟ً‌—؛ً‌—®ً‌...
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
@@ -521,7 +521,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: 10|10 https://dafei.de
+- name: 10|›10 ïhttps://dafei.de
   password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
   port: 45000
   server: 107.174.41.101
@@ -537,7 +537,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|ان های ی د نل ترا💎 Config_Raye...
+- name: 10|ًںط§ظ†ظغŒ¯ ‡ط§غŒ طغŒططھ± ط¯ط †...
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -582,14 +582,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...
+- name: '10|ًں‡©ًں‡ھً‌—ڑً‌—²ً‌—؟ً‌—؛ً‌—®ً‌... #2'
   password: Bz0jKM83wa
   port: 443
   server: android.yas-nowin.ir
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها #1'
+- name: '10|ًں‡©ًں‡ھً‌—ڑً‌—²ً‌—؟ً‌—؛ً‌—®ً‌... #3'
   password: J7VnJazPBw
   port: 443
   server: android.yas-nowin.ir
@@ -597,7 +597,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '10|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #1'
+- name: '10|âک‍ ً‌—‌ً‌—¼ً‌—¶ً‌—» â‍  @Vitu... #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -607,7 +607,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+- name: 10|âک‍ ً‌—‌ً‌—¼ً‌—¶ً‌—» â‍  @Vitu...
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -617,7 +617,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|美国10 付费推荐：https://dafei.de
+- name: 10|ç¾ژه›½10 ن»کè´¹وژ¨èچگï¼ڑhttps:...
   password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
   port: 45000
   server: 107.174.41.101
@@ -651,14 +651,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '10|🛡️ @FreakConfig #1'
+- name: '10|ًں›،ï¸ڈ @FreakConfig #1'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #1'
+- name: '10|ًں‡©ًں‡ھً‌—ڑً‌—²ً‌—؟ً‌—؛ً‌—®ً‌... #5'
   password: n9OgQprayM
   port: 443
   server: android.yas-nowin.ir
@@ -674,7 +674,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: 10|@SaghiVpnXBOT 🇩🇪[🇩🇪]
+- name: 10|@SaghiVpnXBOT ًں‡©ًں‡ھ[ًں‡©ًں‡...
   password: xnChC7dKZ8
   port: 443
   server: android.yas-nowin.ir
@@ -682,7 +682,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '10|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #3'
+- name: '10|ًں‡©ًں‡ھً‌—ڑً‌—²ً‌—؟ً‌—؛ً‌—®ً‌... #9'
   password: zPb5RRsckD
   port: 443
   server: android.yas-nowin.ir
