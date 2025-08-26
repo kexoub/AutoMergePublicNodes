@@ -137,7 +137,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9,10|@Selinc
+- name: '9,10|Telegram:@config_proxy '
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
