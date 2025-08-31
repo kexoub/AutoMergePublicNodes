@@ -425,15 +425,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|Telegram:@config_proxy 💦
-  password: 07c122ad-50b2-4f61-9435-efcf112bb10b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: 8|@Mr_Config_Group
+- name: 8|@Mr_Config_Group✌️
   obfs: salamander
   obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
   password: 10822856-7452-43ec-b35b-6f24ea33530f
