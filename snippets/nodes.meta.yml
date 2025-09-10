@@ -67,6 +67,14 @@ proxies:
   sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
+- name: 10| @Hddify
+  password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
+  port: 43429
+  server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
 - name: 10|@Daily_Configs
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
@@ -268,6 +276,16 @@ proxies:
   server: 176.124.204.248
   skip-cert-verify: true
   sni: ubuntu com
+  tls: false
+  type: hysteria2
+- name: '10|@Daily_Configs IPv4 #2'
+  obfs: salamander
+  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
+  password: daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
   tls: false
   type: hysteria2
 - name: 10|dailyconfigs-IPv4
