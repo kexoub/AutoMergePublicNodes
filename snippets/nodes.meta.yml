@@ -7,17 +7,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: 10|@Mr_Config_Group✌️
-  obfs: salamander
-  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
-  password: 10822856-7452-43ec-b35b-6f24ea33530f
-  port: 29662
-  server: chervhill.hajalii.com
-  skip-cert-verify: false
-  sni: chervhill.hajalii.com
-  tls: false
-  type: hysteria2
-- name: 10| @Hddify
+- name: 10|→ @Hddify
   password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
   port: 43429
   server: 185.126.255.78
@@ -87,7 +77,7 @@ proxies:
   sni: hsyg.huasuan666.top
   tls: false
   type: hysteria2
-- name: 10|→ @Hddify
+- name: '10|→ @Hddify #1'
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 43429
   server: 185.126.255.78
